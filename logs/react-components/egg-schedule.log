@@ -1,0 +1,9 @@
+2020-04-18 11:13:08,184 INFO 35272 [Timer] C:\Users\EDZ\Work\React-Components\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62211821ms at 2020-04-19 04:30:00.005
+2020-04-18 11:13:08,185 INFO 35272 [Timer] C:\Users\EDZ\Work\React-Components\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 46011816ms at 2020-04-19 00:00:00.001
+2020-04-18 11:13:08,186 INFO 35272 [Timer] C:\Users\EDZ\Work\React-Components\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 46012815ms at 2020-04-19 00:00:01.001
+2020-04-18 11:13:08,075 INFO 17208 [egg-schedule]: register schedule C:\Users\EDZ\Work\React-Components\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-18 11:13:08,075 INFO 17208 [egg-schedule]: register schedule C:\Users\EDZ\Work\React-Components\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-18 11:13:08,075 INFO 17208 [egg-schedule]: register schedule C:\Users\EDZ\Work\React-Components\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-18 11:14:52,793 INFO 49880 [egg-schedule]: register schedule C:\Users\EDZ\Work\React-Components\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-18 11:14:52,793 INFO 49880 [egg-schedule]: register schedule C:\Users\EDZ\Work\React-Components\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-18 11:14:52,793 INFO 49880 [egg-schedule]: register schedule C:\Users\EDZ\Work\React-Components\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
