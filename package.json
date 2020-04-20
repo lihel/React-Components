@@ -3,12 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/cli": "^7.0.0-beta.40",
+    "@babel/core": "^7.0.0-beta.40",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "@babel/preset-react": "^7.0.0-beta.40",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
+    "babel-loader": "^8.0.0-beta.0",
+    "babel-plugin-lodash": "^3.3.2",
+    "babel-plugin-react-transform": "^3.0.0",
     "egg": "^2.26.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-hot-loader": "^4.12.20",
     "react-scripts": "3.4.0"
   },
   "scripts": {
@@ -16,7 +25,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "webpack": "webpack -d --watch"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,6 +44,8 @@
     ]
   },
   "devDependencies": {
-    "egg-bin": "^4.14.1"
+    "egg-bin": "^4.14.1",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.11"
   }
 }

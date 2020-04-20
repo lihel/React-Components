@@ -1,5 +1,6 @@
 {
   "keys": "C:\\Users\\EDZ\\Work\\React-Components\\config\\config.default.js",
+  "middleware": "C:\\Users\\EDZ\\Work\\React-Components\\config\\config.default.js",
   "session": {
     "maxAge": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-session\\config\\config.default.js",
     "key": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-session\\config\\config.default.js",
@@ -158,12 +159,21 @@
     "version": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
     "private": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
     "dependencies": {
+      "@babel/cli": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "@babel/core": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "@babel/preset-env": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "@babel/preset-es2015": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "@babel/preset-react": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
       "@testing-library/jest-dom": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
       "@testing-library/react": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
       "@testing-library/user-event": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "babel-loader": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-lodash": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-react-transform": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
       "egg": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
       "react": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
       "react-dom": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "react-hot-loader": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
       "react-scripts": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
     },
     "scripts": {
@@ -171,7 +181,8 @@
       "start": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
       "build": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
       "test": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "eject": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "eject": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "webpack": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
     },
     "eslintConfig": {
       "extends": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
@@ -181,7 +192,9 @@
       "development": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "egg-bin": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "egg-bin": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "webpack": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+      "webpack-cli": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "baseDir": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
