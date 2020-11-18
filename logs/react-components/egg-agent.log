@@ -53,3 +53,24 @@
 2020-04-20 10:07:00,366 INFO 51016 [egg-watcher] Start watching: "C:\\Users\\EDZ\\Work\\React-Components\\app.js"
 2020-04-20 10:07:00,367 INFO 51016 [egg-watcher:agent] watcher start success
 2020-04-20 10:07:00,398 INFO 51016 [egg:core] dump config after ready, 9ms
+2020-11-18 15:41:32,691 INFO 10433 [egg:logger] init all loggers with options: {"dir":"/Users/lmy/study/React-Components/logs/react-components","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-components-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-18 15:41:32,699 INFO 10433 [egg:core] dump config after load, 5ms
+2020-11-18 15:41:32,731 INFO 10433 [egg-watcher] Start watching: ["/Users/lmy/study/React-Components/app","/Users/lmy/study/React-Components/config","/Users/lmy/study/React-Components/mocks","/Users/lmy/study/React-Components/mocks_proxy","/Users/lmy/study/React-Components/app.js"]
+2020-11-18 15:41:32,731 INFO 10433 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/app"
+2020-11-18 15:41:32,732 INFO 10433 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/config"
+2020-11-18 15:41:32,732 INFO 10433 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/mocks"
+2020-11-18 15:41:32,732 INFO 10433 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/mocks_proxy"
+2020-11-18 15:41:32,732 INFO 10433 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/app.js"
+2020-11-18 15:41:32,732 INFO 10433 [egg-watcher:agent] watcher start success
+2020-11-18 15:41:32,741 INFO 10433 [egg:core] dump config after ready, 3ms
+2020-11-18 15:41:33,211 INFO 10433 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/lmy/study/React-Components/app/public","stat":{"dev":16777221,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":11558481,"size":64,"blocks":0,"atimeMs":1605685293199.8489,"mtimeMs":1605685293199.8489,"ctimeMs":1605685293199.8489,"birthtimeMs":1605685293199.8489,"atime":"2020-11-18T07:41:33.200Z","mtime":"2020-11-18T07:41:33.200Z","ctime":"2020-11-18T07:41:33.200Z","birthtime":"2020-11-18T07:41:33.200Z"},"remove":false,"isDirectory":true,"isFile":false}
+2020-11-18 15:44:35,631 INFO 10585 [egg:logger] init all loggers with options: {"dir":"/Users/lmy/study/React-Components/logs/react-components","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-components-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-11-18 15:44:35,638 INFO 10585 [egg:core] dump config after load, 4ms
+2020-11-18 15:44:35,675 INFO 10585 [egg-watcher] Start watching: ["/Users/lmy/study/React-Components/app","/Users/lmy/study/React-Components/config","/Users/lmy/study/React-Components/mocks","/Users/lmy/study/React-Components/mocks_proxy","/Users/lmy/study/React-Components/app.js"]
+2020-11-18 15:44:35,675 INFO 10585 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/app"
+2020-11-18 15:44:35,675 INFO 10585 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/config"
+2020-11-18 15:44:35,675 INFO 10585 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/mocks"
+2020-11-18 15:44:35,675 INFO 10585 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/mocks_proxy"
+2020-11-18 15:44:35,675 INFO 10585 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/app.js"
+2020-11-18 15:44:35,675 INFO 10585 [egg-watcher:agent] watcher start success
+2020-11-18 15:44:35,684 INFO 10585 [egg:core] dump config after ready, 4ms

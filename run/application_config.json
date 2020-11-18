@@ -88,25 +88,25 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-onerror\\lib\\onerror_page.mustache"
+      "templatePath": "/Users/lmy/study/React-Components/node_modules/egg-onerror/lib/onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
       "dirs": [
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-session\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-jsonp\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-onerror\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-i18n\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-watcher\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-schedule\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-development\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-logrotator\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-static\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-view\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\locales",
-        "C:\\Users\\EDZ\\Work\\React-Components\\config\\locales"
+        "/Users/lmy/study/React-Components/node_modules/egg-session/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-security/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-jsonp/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-onerror/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-i18n/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-watcher/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-schedule/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-development/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-logrotator/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-static/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg-view/config/locales",
+        "/Users/lmy/study/React-Components/node_modules/egg/config/locales",
+        "/Users/lmy/study/React-Components/config/locales"
       ],
       "queryField": "locale",
       "cookieField": "locale",
@@ -117,8 +117,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-watcher\\lib\\event-sources\\default",
-        "development": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-watcher\\lib\\event-sources\\development"
+        "default": "/Users/lmy/study/React-Components/node_modules/egg-watcher/lib/event-sources/default",
+        "development": "/Users/lmy/study/React-Components/node_modules/egg-watcher/lib/event-sources/development"
       }
     },
     "customLogger": {
@@ -141,7 +141,7 @@
       "files": 10,
       "fileExtensions": [],
       "whitelist": null,
-      "tmpdir": "C:\\Users\\EDZ\\AppData\\Local\\Temp\\egg-multipart-tmp\\react-components",
+      "tmpdir": "/var/folders/7l/p9jq8_b12zg6xh1gw0kmqz6r0000gn/T/egg-multipart-tmp/react-components",
       "cleanSchedule": {
         "cron": "0 30 4 * * *"
       }
@@ -164,14 +164,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "C:\\Users\\EDZ\\Work\\React-Components\\app\\public",
+      "dir": "/Users/lmy/study/React-Components/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "C:\\Users\\EDZ\\Work\\React-Components\\app\\view",
+      "root": "/Users/lmy/study/React-Components/app/view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -238,9 +238,9 @@
         "webpack-cli": "^3.3.11"
       }
     },
-    "baseDir": "C:\\Users\\EDZ\\Work\\React-Components",
-    "HOME": "C:\\Users\\EDZ",
-    "rundir": "C:\\Users\\EDZ\\Work\\React-Components\\run",
+    "baseDir": "/Users/lmy/study/React-Components",
+    "HOME": "/Users/lmy",
+    "rundir": "/Users/lmy/study/React-Components/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -272,7 +272,7 @@
       "returnRawBody": true
     },
     "logger": {
-      "dir": "C:\\Users\\EDZ\\Work\\React-Components\\logs\\react-components",
+      "dir": "/Users/lmy/study/React-Components/logs/react-components",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -365,8 +365,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-session",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -378,8 +378,8 @@
         "session"
       ],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-security",
       "version": "2.8.0"
     },
     "jsonp": {
@@ -391,8 +391,8 @@
         "security"
       ],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-jsonp",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -404,8 +404,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-onerror",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-onerror",
       "version": "2.1.0"
     },
     "i18n": {
@@ -415,8 +415,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-i18n",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -426,8 +426,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-watcher",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-watcher",
       "version": "3.1.1"
     },
     "schedule": {
@@ -437,8 +437,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-schedule",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-schedule",
       "version": "3.6.4"
     },
     "multipart": {
@@ -450,8 +450,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-multipart",
       "version": "2.10.2"
     },
     "development": {
@@ -465,8 +465,8 @@
       "env": [
         "local"
       ],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-development",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-development",
       "version": "2.4.3"
     },
     "logrotator": {
@@ -478,8 +478,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-logrotator",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-logrotator",
       "version": "3.1.0"
     },
     "static": {
@@ -489,8 +489,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-static",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-static",
       "version": "2.2.0"
     },
     "view": {
@@ -500,8 +500,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-view",
+      "from": "/Users/lmy/study/React-Components/node_modules/egg/config/plugin.js",
+      "path": "/Users/lmy/study/React-Components/node_modules/egg-view",
       "version": "2.1.2"
     }
   }

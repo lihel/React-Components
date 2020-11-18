@@ -110,3 +110,31 @@
 2020-04-20 10:07:02,146 INFO 54748 [egg:core] dump config after load, 9ms
 2020-04-20 10:07:02,179 INFO 54748 [egg-watcher:application] watcher start success
 2020-04-20 10:07:02,194 INFO 54748 [egg:core] dump config after ready, 11ms
+2020-11-18 15:41:33,123 INFO 10437 [egg:logger] init all loggers with options: {"dir":"/Users/lmy/study/React-Components/logs/react-components","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-components-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-18 15:41:33,141 INFO 10437 [egg-multipart] stream mode enable
+2020-11-18 15:41:33,200 INFO 10437 [egg-static] starting static serve /public/ -> /Users/lmy/study/React-Components/app/public
+2020-11-18 15:41:33,201 INFO 10437 [egg-security] use csrf middleware
+2020-11-18 15:41:33,202 INFO 10437 [egg-security] use methodnoallow middleware
+2020-11-18 15:41:33,202 INFO 10437 [egg-security] use noopen middleware
+2020-11-18 15:41:33,203 INFO 10437 [egg-security] use nosniff middleware
+2020-11-18 15:41:33,203 INFO 10437 [egg-security] use xssProtection middleware
+2020-11-18 15:41:33,205 INFO 10437 [egg-security] use xframe middleware
+2020-11-18 15:41:33,205 INFO 10437 [egg-security] use dta middleware
+2020-11-18 15:41:33,205 INFO 10437 [egg-security] compose 7 middlewares into one security middleware
+2020-11-18 15:41:33,211 INFO 10437 [egg:core] dump config after load, 3ms
+2020-11-18 15:41:33,221 INFO 10437 [egg-watcher:application] watcher start success
+2020-11-18 15:41:33,226 INFO 10437 [egg:core] dump config after ready, 3ms
+2020-11-18 15:44:36,068 INFO 10589 [egg:logger] init all loggers with options: {"dir":"/Users/lmy/study/React-Components/logs/react-components","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react-components-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-18 15:44:36,088 INFO 10589 [egg-multipart] stream mode enable
+2020-11-18 15:44:36,139 INFO 10589 [egg-static] starting static serve /public/ -> /Users/lmy/study/React-Components/app/public
+2020-11-18 15:44:36,141 INFO 10589 [egg-security] use csrf middleware
+2020-11-18 15:44:36,141 INFO 10589 [egg-security] use methodnoallow middleware
+2020-11-18 15:44:36,142 INFO 10589 [egg-security] use noopen middleware
+2020-11-18 15:44:36,142 INFO 10589 [egg-security] use nosniff middleware
+2020-11-18 15:44:36,142 INFO 10589 [egg-security] use xssProtection middleware
+2020-11-18 15:44:36,143 INFO 10589 [egg-security] use xframe middleware
+2020-11-18 15:44:36,145 INFO 10589 [egg-security] use dta middleware
+2020-11-18 15:44:36,145 INFO 10589 [egg-security] compose 7 middlewares into one security middleware
+2020-11-18 15:44:36,151 INFO 10589 [egg:core] dump config after load, 3ms
+2020-11-18 15:44:36,159 INFO 10589 [egg-watcher:application] watcher start success
+2020-11-18 15:44:36,165 INFO 10589 [egg:core] dump config after ready, 4ms

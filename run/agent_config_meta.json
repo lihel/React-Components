@@ -1,290 +1,290 @@
 {
-  "keys": "C:\\Users\\EDZ\\Work\\React-Components\\config\\config.default.js",
-  "middleware": "C:\\Users\\EDZ\\Work\\React-Components\\config\\config.default.js",
+  "keys": "/Users/lmy/study/React-Components/config/config.default.js",
+  "middleware": "/Users/lmy/study/React-Components/config/config.default.js",
   "session": {
-    "maxAge": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-session\\config\\config.default.js",
-    "key": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-session\\config\\config.default.js",
-    "httpOnly": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-session\\config\\config.default.js",
-    "encrypt": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-session\\config\\config.default.js"
+    "maxAge": "/Users/lmy/study/React-Components/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/lmy/study/React-Components/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/lmy/study/React-Components/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/lmy/study/React-Components/node_modules/egg-session/config/config.default.js"
   },
   "security": {
-    "domainWhiteList": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-    "protocolWhiteList": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-    "defaultMiddleware": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
+    "domainWhiteList": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "type": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "ignoreJSON": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "useSession": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "cookieName": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "sessionName": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "headerName": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "bodyName": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "queryName": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "refererWhiteList": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     },
     "xframe": {
-      "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.local.js",
-      "maxAge": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "includeSubdomains": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "policy": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js",
-      "checkAddress": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+      "ipBlackList": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
     }
   },
   "helper": {
-    "shtml": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-security\\config\\config.default.js"
+    "shtml": "/Users/lmy/study/React-Components/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "callback": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "csrf": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-jsonp\\config\\config.default.js"
+    "limit": "/Users/lmy/study/React-Components/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/lmy/study/React-Components/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/lmy/study/React-Components/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-onerror\\config\\config.default.js",
-    "templatePath": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "/Users/lmy/study/React-Components/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/lmy/study/React-Components/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/lmy/study/React-Components/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-i18n\\config\\config.default.js",
-    "dirs": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-i18n\\config\\config.default.js",
-    "queryField": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieField": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieDomain": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-i18n\\config\\config.default.js"
+    "defaultLocale": "/Users/lmy/study/React-Components/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/lmy/study/React-Components/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/lmy/study/React-Components/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/lmy/study/React-Components/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/lmy/study/React-Components/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/lmy/study/React-Components/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-watcher\\config\\config.local.js",
+    "type": "/Users/lmy/study/React-Components/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-watcher\\config\\config.default.js",
-      "development": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-watcher\\config\\config.default.js"
+      "default": "/Users/lmy/study/React-Components/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/lmy/study/React-Components/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-schedule\\config\\config.default.js",
-      "file": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-schedule\\config\\config.default.js"
+      "consoleLevel": "/Users/lmy/study/React-Components/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/lmy/study/React-Components/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "schedule": {
-    "directory": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-schedule\\config\\config.default.js"
+    "directory": "/Users/lmy/study/React-Components/node_modules/egg-schedule/config/config.default.js"
   },
   "multipart": {
-    "mode": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
-    "autoFields": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
-    "defaultCharset": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldSize": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fields": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileSize": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
-    "files": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileExtensions": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
-    "whitelist": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
-    "tmpdir": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js",
+    "mode": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js",
     "cleanSchedule": {
-      "cron": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-multipart\\config\\config.default.js"
+      "cron": "/Users/lmy/study/React-Components/node_modules/egg-multipart/config/config.default.js"
     }
   },
   "development": {
-    "watchDirs": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-development\\config\\config.default.js",
-    "ignoreDirs": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-development\\config\\config.default.js",
-    "fastReady": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-development\\config\\config.default.js",
-    "reloadOnDebug": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideDefault": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-development\\config\\config.default.js"
+    "watchDirs": "/Users/lmy/study/React-Components/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/lmy/study/React-Components/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/lmy/study/React-Components/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/lmy/study/React-Components/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/lmy/study/React-Components/node_modules/egg-development/config/config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFiles": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxDays": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "/Users/lmy/study/React-Components/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/lmy/study/React-Components/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/lmy/study/React-Components/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/lmy/study/React-Components/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/lmy/study/React-Components/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/lmy/study/React-Components/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/lmy/study/React-Components/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-static\\config\\config.default.js",
-    "dir": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-static\\config\\config.default.js",
-    "dynamic": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-static\\config\\config.default.js",
-    "preload": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-static\\config\\config.default.js",
-    "buffer": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-static\\config\\config.default.js",
-    "maxFiles": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-static\\config\\config.default.js"
+    "prefix": "/Users/lmy/study/React-Components/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/lmy/study/React-Components/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/lmy/study/React-Components/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/lmy/study/React-Components/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/lmy/study/React-Components/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/lmy/study/React-Components/node_modules/egg-static/config/config.default.js"
   },
   "view": {
-    "root": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-view\\config\\config.default.js",
-    "cache": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-view\\config\\config.local.js",
-    "defaultExtension": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-view\\config\\config.default.js",
-    "defaultViewEngine": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-view\\config\\config.default.js",
-    "mapping": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg-view\\config\\config.default.js"
+    "root": "/Users/lmy/study/React-Components/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/lmy/study/React-Components/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/lmy/study/React-Components/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/lmy/study/React-Components/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/lmy/study/React-Components/node_modules/egg-view/config/config.default.js"
   },
-  "env": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "name": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "cookies": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "proxy": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "maxIpsCount": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "maxProxyCount": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "protocolHeaders": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "ipHeaders": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "hostHeaders": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+  "env": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "name": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "version": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "private": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+    "name": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "version": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "private": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
     "dependencies": {
-      "@babel/cli": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "@babel/core": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "@babel/preset-env": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "@babel/preset-es2015": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "@babel/preset-react": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "@testing-library/jest-dom": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "@testing-library/react": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "@testing-library/user-event": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "babel-loader": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "babel-plugin-lodash": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "babel-plugin-react-transform": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "egg": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "react": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "react-dom": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "react-hot-loader": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "react-scripts": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "@babel/cli": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "@babel/core": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "@babel/preset-env": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "@babel/preset-es2015": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "@babel/preset-react": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "@testing-library/jest-dom": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "@testing-library/react": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "@testing-library/user-event": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "babel-loader": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "babel-plugin-lodash": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "babel-plugin-react-transform": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "egg": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "react": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "react-dom": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "react-hot-loader": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "react-scripts": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
     },
     "scripts": {
-      "dev": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "start": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "build": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "test": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "eject": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "webpack": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "dev": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "start": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "build": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "test": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "eject": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "webpack": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
     },
     "eslintConfig": {
-      "extends": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "extends": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
     },
     "browserslist": {
-      "production": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "development": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "production": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "development": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "egg-bin": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "webpack": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "webpack-cli": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "egg-bin": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "webpack": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "webpack-cli": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
     }
   },
-  "baseDir": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "HOME": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "rundir": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+  "baseDir": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+    "ignore": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "notFound": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "sitefile": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "middlewares": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "httpClient": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+    "bodyparser": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+    "pageUrl": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+    "/favicon.ico": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "formLimit": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "jsonLimit": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "textLimit": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "strict": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+    "enable": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "strict": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "depth": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "parameterLimit": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "arrayLimit": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "depth": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
     },
-    "onerror": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+    "onerror": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
   },
   "logger": {
-    "dir": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "env": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "level": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "consoleLevel": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "outputJSON": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "buffer": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "appLogName": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "coreLogName": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "agentLogName": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "errorLogName": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+    "dir": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "env": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "level": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.local.js"
+      "consoleLevel": "/Users/lmy/study/React-Components/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+    "allowDebugAtProd": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+    "enableDNSCache": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "timeout": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "logging": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+    "enable": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "logging": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "workerStartTimeout": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-  "serverTimeout": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
+  "coreMiddleware": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "port": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-      "hostname": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+      "path": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "port": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js",
-    "responseTimeout": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+    "maxWaitTime": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "C:\\Users\\EDZ\\Work\\React-Components\\node_modules\\egg\\config\\config.default.js"
+  "onClientError": "/Users/lmy/study/React-Components/node_modules/egg/config/config.default.js"
 }
