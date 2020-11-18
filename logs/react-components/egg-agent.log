@@ -74,3 +74,11 @@
 2020-11-18 15:44:35,675 INFO 10585 [egg-watcher] Start watching: "/Users/lmy/study/React-Components/app.js"
 2020-11-18 15:44:35,675 INFO 10585 [egg-watcher:agent] watcher start success
 2020-11-18 15:44:35,684 INFO 10585 [egg:core] dump config after ready, 4ms
+2020-11-18 17:18:17,938 ERROR 10585 nodejs.ClusterClientNoResponseError: client no response in 700955ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/lmy/study/React-Components/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 10585
+hostname: lmydeMacBook-Pro.local
+

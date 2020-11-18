@@ -13,3 +13,11 @@
 pid: 17208
 hostname: LAPTOP-RF844FBF
 
+2020-11-18 17:18:17,937 ERROR 10585 nodejs.ClusterClientNoResponseError: client no response in 700955ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/lmy/study/React-Components/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 10585
+hostname: lmydeMacBook-Pro.local
+
