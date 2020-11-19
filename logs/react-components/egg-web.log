@@ -1,1 +1,2 @@
 2020-11-19 13:20:03,571 INFO 10589 [egg-logrotator] app logger reload: got log-reload message
+2020-11-19 17:00:11,969 WARN 10589 [ClusterClient:Watcher] follower closed, and try to init it again
